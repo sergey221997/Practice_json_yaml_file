@@ -1,0 +1,28 @@
+# ---
+#   name: "sergey"
+#   age: 27
+#   sergey: true
+#   bike:
+#   - "giant"
+#   - "stels"
+#   - "santacruz"
+# ...
+---
+  name: "Molecule Man"
+  age: 29
+  secretidentity: "Dan Jukes"
+  power:
+  - "Radiation resistance"
+  - "Turning tiny"
+  - "Radiation blast"
+
+---
+  name: "Molecule girl"
+  age: 28
+  secretidentity: " Jan Wilson"
+  pover: ["Million tonne punch", "Damage resistance", "Superhuman reflexes" ]
+
+---
+ # name: "Sergey"
+  age: 27
+ #status: online
